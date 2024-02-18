@@ -7,5 +7,7 @@
         public string Title { get; set; }
         public int OwnerId { get; set; }
 
+        public string Name { get; set; }
+
     }
 }
